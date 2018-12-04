@@ -1,4 +1,4 @@
-# Yeoman Test
+# Yeoman Generator Test
 
 ### Clone/Fork Repository
 
