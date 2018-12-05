@@ -1,7 +1,7 @@
-# Yeoman Test
+# Yeoman Generator Test
 
-### Clone/Fork Repository
+### Clone Repository
 
-### Run `npm link`
+### Run `npm link` in root (/generator-test/...)
 
 ### Run `yo test`
