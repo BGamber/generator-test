@@ -24,4 +24,9 @@ module.exports = class extends Generator {
   end() {
     this.log("Ending.");
   }
+  // Expected output:
+  // > Initialization starting.
+  // > method 1 just ran
+  // > Initialization ending.
+  // > Ending.
 };
